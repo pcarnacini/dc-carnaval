@@ -1,0 +1,12 @@
+default:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: aws-0-ca-central-1.pooler.supabase.com
+      user: postgres.shmngfbsppxrfjnyzvuq
+      password: "Rs5m93Ha3-#knZ."  # Substitua pela senha real
+      port: 5432
+      dbname: postgres
+      schema: public
+      threads: 4

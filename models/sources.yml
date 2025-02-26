@@ -1,0 +1,48 @@
+version: 2
+
+sources:
+  - name: public
+    database: postgres
+    schema: public
+    tables:
+      - name: resultado_1984
+      - name: resultado_1985
+      - name: resultado_1986
+      - name: resultado_1987
+      - name: resultado_1988
+      - name: resultado_1989
+      - name: resultado_1990
+      - name: resultado_1991
+      - name: resultado_1992
+      - name: resultado_1993
+      - name: resultado_1994
+      - name: resultado_1995
+      - name: resultado_1996
+      - name: resultado_1997
+      - name: resultado_1998
+      - name: resultado_1999
+      - name: resultado_2000
+      - name: resultado_2001
+      - name: resultado_2002
+      - name: resultado_2003
+      - name: resultado_2004
+      - name: resultado_2005
+      - name: resultado_2006
+      - name: resultado_2007
+      - name: resultado_2008
+      - name: resultado_2009
+      - name: resultado_2010
+      - name: resultado_2011
+      - name: resultado_2012
+      - name: resultado_2013
+      - name: resultado_2014
+      - name: resultado_2015
+      - name: resultado_2016
+      - name: resultado_2017
+      - name: resultado_2018
+      - name: resultado_2019
+      - name: resultado_2020
+      - name: resultado_2021
+      - name: resultado_2022
+      - name: resultado_2023
+      - name: resultado_2024
